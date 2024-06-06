@@ -1,1 +1,1 @@
-![Host](/assets/Host.png "Host")
+![Host](assets/Host.png "Host")
